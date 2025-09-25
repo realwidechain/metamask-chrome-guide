@@ -9,7 +9,7 @@
 - Troubleshooting common issues
 
 ## 📖 Read the Full Guide
-👉 **[Complete Article: How to Download and Install MetaMask on Chrome]([https://www.widechain.wiki/](https://www.widechain.wiki/))**
+👉 **[Complete Article: How to Download and Install MetaMask on Chrome](https://www.widechain.wiki/)**
 
 ## 🔧 What's Covered
 - ✅ Chrome Web Store navigation
